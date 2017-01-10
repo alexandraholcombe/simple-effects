@@ -1,0 +1,40 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.hide-images {
+  display: none;
+}
+
+.btn-purple {
+  color: #fff;
+  background-color: #694489;
+  border-color: indigo;
+}
+
+.btn-pink {
+  color: #fff;
+  background-color: #FF6EC7;
+  border-color: #8E236B;
+}
+
+.blue-background {
+  background-color: #5bc0de;
+}
+
+.pink-background {
+  background-color: #FF6EC7;
+}
+
+.purple-background {
+  background-color: #694489;
+}
